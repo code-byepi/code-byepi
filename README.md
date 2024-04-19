@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Purple Sky Profile Header](https://github.com/code-byepi/code-byepi/assets/167562067/477188b9-a567-463e-891d-094203d01ef1)
+
 
 <!--
 **code-byepi/code-byepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
