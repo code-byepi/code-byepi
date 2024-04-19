@@ -9,7 +9,12 @@ I'm a student of Systems Engineering with a passion for the challenges of the IT
 ### My Interests 
 *   🌐 Software and web application development. }
 *   ⛓️ Exploring emerging technologies such as blockchain and artificial intelligence. 
-*   🧪 Test automation and continuous improvement of software quality. Connect with Me! I'm excited to collaborate on interesting projects and learn from other passionate developers. Feel free to reach out to discuss ideas, collaborations, or just to chat about technology!
+*   🧪 Test automation and continuous improvement of software quality.
+
+
+### Connect with Me! 
+
+I'm excited to collaborate on interesting projects and learn from other passionate developers. Feel free to reach out to discuss ideas, collaborations, or just to chat about technology!
 
 ### More...
 *   🌍  I'm based in Argentina
