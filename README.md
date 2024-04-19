@@ -13,8 +13,8 @@ I'm a student of Systems Engineering with a passion for the challenges of the IT
 
 ### More...
 *   🌍  I'm based in Argentina
-*   ✉️  You can contact me at [estefi.turin@gmail.com](mailto:estefi.turin@gmail.com)
-*   🧠  I'm learning .NET, Blockchain and AI### Skills 
+*   🧠  I'm learning .NET, Blockchain and AI
+  
 ### Skills
 
 <p align="left">
@@ -28,6 +28,9 @@ I'm a student of Systems Engineering with a passion for the challenges of the IT
 ### Badges
 
 <a href="https://github.com/estefiturin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefiturin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+*   ✉️  You can contact me at [estefi.turin@gmail.com](mailto:estefi.turin@gmail.com)
 
 
 
