@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Epi.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Epi.
 ============================================================================================================================
 
 I'm a student of Systems Engineering with a passion for the challenges of the IT world. I'm excited to explore new technologies and take on projects that push me to grow professionally. About Me 👩‍💻 Currently, I'm diving into languages like C# and Java, and working with frameworks like Spring and .NET. 🛠️ I have knowledge and practical experience in Frontend Test Automation with Selenium, Backend with RestAssured, and API Testing with Postman, among others. 🔗 I'm also passionate about blockchain technology and artificial intelligence, and I'm eager to explore more in these constantly evolving fields. My Interests 🌐 Software and web application development. ⛓️ Exploring emerging technologies such as blockchain and artificial intelligence. 🧪 Test automation and continuous improvement of software quality. Connect with Me! I'm excited to collaborate on interesting projects and learn from other passionate developers. Feel free to reach out to discuss ideas, collaborations, or just to chat about technology!
 
 * 🌍  I'm based in Argentina
-* ✉️  You can contact me at [estefi.turin@gmail.com](mailto:estefi.turin@gmail.com)
 * 🧠  I'm learning .NET, Blockchain and AI
 
 ### Skills
@@ -22,3 +21,5 @@ I'm a student of Systems Engineering with a passion for the challenges of the IT
 ### Badges
 
 <a href="https://github.com/estefiturin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefiturin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+* ✉️  You can contact me at [estefi.turin@gmail.com](mailto:estefi.turin@gmail.com)
