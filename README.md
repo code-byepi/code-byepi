@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a student of Systems Engineering with a passion for the challenges of the IT world. I'm excited to explore new technologies and take on projects that push me to grow professionally.
 
-My previous GitHub account is: github.com/estefiturin/
+*   My previous GitHub account is: github.com/estefiturin/
 
 ### About Me 
 *   👩‍💻 Currently, I'm diving into languages like C# and Java, and working with frameworks like Spring and .NET. 
