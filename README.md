@@ -10,17 +10,13 @@ I'm a student of Systems Engineering with a passion for the challenges of the IT
 *   🛠️ I have knowledge and practical experience in Frontend Test Automation with Selenium, Backend with RestAssured, and API Testing with Postman, among others. 
 *   🔗 I'm also passionate about blockchain technology and artificial intelligence, and I'm eager to explore more in these constantly evolving fields. 
 ### My Interests 
-*   🌐 Software and web application development. }
+*   🌐 Software and web application development. 
 *   ⛓️ Exploring emerging technologies such as blockchain and artificial intelligence. 
 *   🧪 Test automation and continuous improvement of software quality.
 
 ### Connect with Me! 
 
 I'm excited to collaborate on interesting projects and learn from other passionate developers. Feel free to reach out to discuss ideas, collaborations, or just to chat about technology!
-
-### More...
-*   🌍  I'm based in Argentina
-*   🧠  I'm learning .NET, Blockchain and AI
   
 ### Skills
 
